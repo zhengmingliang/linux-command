@@ -5,7 +5,7 @@
   <h1>Linux Command</h1>
 </p>
 
-[![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://jaywcjlove.github.io/linux-command/) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![](https://jaywcjlove.github.io/sb/ico/npm.svg)](https://www.npmjs.com/package/linux-command)
+[![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://linux.alianga.com/) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![](https://jaywcjlove.github.io/sb/ico/npm.svg)](https://www.npmjs.com/package/linux-command)
 
 当前仓库搜集了 570 多个 Linux 命令，是一个非盈利性的仓库，生成了一个 web 网站方便使用，目前网站没有任何广告，内容包含 Linux 命令手册、详解、学习，内容来自网络和网友的补充，非常值得收藏的 Linux 命令速查手册。版权归属原作者，对任何法律问题及风险不承担任何责任，没有任何商业目的，如果认为侵犯了您的版权，请来信告知。我不能完全保证内容的正确性。通过使用本站内容带来的风险与我无关。当使用本站时，代表您已接受了本站的使用条款和隐私条款。
 
@@ -13,15 +13,15 @@
 
 #### Web 版本
 
-[Github Web](http://jaywcjlove.github.io/linux-command/) | [OSChina Web](http://jaywcjlove.gitee.io/linux-command/) | [Githack](https://raw.githack.com/jaywcjlove/linux-command/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/linux-command/gh-pages/index.html)
+[Github Web](http://linux.alianga.com/) | [OSChina Web](http://jaywcjlove.gitee.io/linux-command/) | [Githack](https://raw.githack.com/jaywcjlove/linux-command/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/linux-command/gh-pages/index.html)
 
 扫描二维码移动端预览搜索，也可通过二维码下面链接地址打开使用，下面网站是通过 Github Action 自动更新。
 
-[![Linux 命令大全](./assets/qr.png)](https://jaywcjlove.github.io/linux-command/)
+[![Linux 命令大全](./assets/qr.png)](https://linux.alianga.com/)
 
 预览搜索：**https://git.io/linux**
 
-[![Linux 命令大全](./assets/Linux.gif)](https://jaywcjlove.github.io/linux-command/)
+[![Linux 命令大全](./assets/Linux.gif)](https://linux.alianga.com/)
 
 #### Chrome 插件
 
@@ -33,9 +33,9 @@
 
 #### Alfred 版本
 
-[Alfred 版本下载](https://github.com/jaywcjlove/linux-command/releases)， 下图是界面效果。 
+[Alfred 版本下载](https://github.com/zhengmingliang/linux-command/releases)， 下图是界面效果。 
 
-[![Linux 命令大全](./assets/alfred.png)](https://github.com/jaywcjlove/linux-command/releases)
+[![Linux 命令大全](./assets/alfred.png)](https://github.com/zhengmingliang/linux-command/releases)
 
 #### Dash 版本
 
@@ -77,7 +77,7 @@
 
 ## Linux命令分类
 
-*这里存放Linux 命令大全并不全，你可以通过[linux-command](https://jaywcjlove.github.io/linux-command/)来搜索，它是把 [command](./assets/command) 目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。*
+*这里存放Linux 命令大全并不全，你可以通过[linux-command](https://linux.alianga.com/)来搜索，它是把 [command](./assets/command) 目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。*
 
 ### 文件传输
 
